@@ -17,7 +17,7 @@ GENERAL STYLING
 ================================================ */
 body {
     color: var(--brown);
-    background: url('images/music1back.png') repeat;
+    background: url(../images/music1back.png) repeat;
     text-align: center;
     
     width: 100%;
