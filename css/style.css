@@ -152,7 +152,7 @@ HERO
     content: '';
     width: 50%;
     height: 50vh;
-    background: url('wavephoto.png') no-repeat center / cover;
+    background: url('./images/wavephoto.png') no-repeat center / cover;
     position: absolute;
     inset: 0;
 }
