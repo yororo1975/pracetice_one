@@ -212,7 +212,7 @@ GALLERY
 SHOP INFO
 ================================================ */
 .shop {
-    background: url('/Users/uemuraryoshihiro/tryaction/images/IMG_0338.jpeg') no-repeat center top / cover;
+    background: url('../images/IMG_0338.jpeg') no-repeat center top / cover;
     margin-top: 16rem;
     position: relative;
     height: 50rem;
