@@ -216,7 +216,6 @@ SHOP INFO
     margin-top: 16rem;
     position: relative;
     height: 50rem;
-    -webkit-appearance: none;
 }
 .shop-content {
     background: var(--white);
@@ -231,6 +230,7 @@ SHOP INFO
     margin: 1rem 0;
     padding-top: 2rem;
     font-weight: normal;
+    font-size: 40px;
     border-top: 1px solid var(--light-grey);
 }
 
