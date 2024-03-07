@@ -216,6 +216,7 @@ SHOP INFO
     margin-top: 16rem;
     position: relative;
     height: 50rem;
+    -webkit-appearance: none;
 }
 .shop-content {
     background: var(--white);
