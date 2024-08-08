@@ -17,12 +17,11 @@ GENERAL STYLING
 ================================================ */
 body {
     color: var(--brown);
-    background-image: url(../images/midori.png),url( 画像ファイルのURL ),url( 画像ファイルのURL );
+    background: url('../images/music1back.png') repeat;
     text-align: center;
     
     width: 100%;
 }
-
 /*
 COMMON
 ================================================ */
