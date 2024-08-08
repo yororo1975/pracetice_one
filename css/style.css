@@ -290,7 +290,7 @@ DESKTOP SIZE
     footer {
     　background-color: darkred;
     　color: whitesmoke;
-    background-image:url("images/yorunami.png");
+    background-image:url('../images/yorunami.png');
     }
     
     .footer-menu {
