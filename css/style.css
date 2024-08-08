@@ -17,7 +17,7 @@ GENERAL STYLING
 ================================================ */
 body {
     color: var(--brown);
-    background: url('../images/music1back.png') repeat;
+    background-image: url( 画像ファイルのURL ),url( 画像ファイルのURL ),url( 画像ファイルのURL );
     text-align: center;
     
     width: 100%;
