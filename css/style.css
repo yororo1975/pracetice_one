@@ -286,5 +286,30 @@ DESKTOP SIZE
         color: #00fff2;
         
     }
+    /* フッター */
+    footer {
+    　background-color: darkred;
+    　color: whitesmoke;
+    background-image:url("../images/wavephoto.png");
+    }
     
+    .footer-menu {
+    　height: 60px;
+    }
+    
+    .footer-menu-list {
+    　list-style: none;
+    　text-align: center;
+    　line-height: 60px;
+      font-size: 50px;
+    }
+    
+    .footer-menu-list li {
+    　margin: 10px;
+    　display: inline;
+    }
+    
+    .copyright {
+    　text-align: center;
+    }    
 }
