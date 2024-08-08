@@ -197,6 +197,7 @@ h2{
 GALLERY
 ================================================ */
 .gallery {
+    bakcgruound: url('../images/midori.png') no-rpeat center top / cover;
     display: -webkit-flex;
     display: flex;
     -webkit-justify-content: space-between;
