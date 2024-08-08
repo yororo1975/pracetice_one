@@ -143,6 +143,8 @@ SLIDE MENU
 /*
 HERO
 ================================================ */
+.hero
+background-image: url(dummy.png);
 .hero {
     height: 50vh;
     position: relative;
