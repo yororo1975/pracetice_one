@@ -144,7 +144,7 @@ SLIDE MENU
 HERO
 ================================================ */
 .hero
-background-image: url(dummy.png);
+background-image: url(../images/midori.png);
 .hero {
     height: 50vh;
     position: relative;
